@@ -25,7 +25,8 @@ public class Main {
 		System.out.println("Hello Sales people");
 		System.out.println("The app shows sales data");
 		
-		System.out.println("delta AUS-A");
+
+		System.out.println("delta NZL");
 
 
 	}
