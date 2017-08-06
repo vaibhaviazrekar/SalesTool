@@ -25,7 +25,8 @@ public class Main {
 		System.out.println("Hello Sales people");
 		System.out.println("The app shows sales data");
 		
-		System.out.println("System testing.");
+		System.out.println("Test sanity 2");
+
 
 	}
 
