@@ -22,11 +22,11 @@ public class Main {
 	private static void displayGreeting() {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello Super Sales people of TCS");
+		System.out.println("Hello Ultimate Sales people of TCS");
 
 		System.out.println("The app shows sales data");
 		
-		System.out.println("delta xxx");
+		System.out.println("delta triple-X");
 
 
 	}

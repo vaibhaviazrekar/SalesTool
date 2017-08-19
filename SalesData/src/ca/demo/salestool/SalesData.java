@@ -9,7 +9,7 @@ package ca.demo.salestool;
  */
 public class SalesData {
 	
-	int[] x= {1,2,3};
+	int[] x= {11,45,93};
 
 	public void display() {
 		// TODO Auto-generated method stub
@@ -18,7 +18,7 @@ public class SalesData {
 		
 		for(int i=0; i<x.length; i++)
 		{
-			System.out.println("NZL: "+x[i]);
+			System.out.println("IND: "+x[i]);
 		}
 	}
 
