@@ -18,7 +18,7 @@ public class SalesData {
 		
 		for(int i=0; i<x.length; i++)
 		{
-			System.out.println("SL: "+x[i]);
+			System.out.println("AUS: "+x[i]);
 		}
 	}
 

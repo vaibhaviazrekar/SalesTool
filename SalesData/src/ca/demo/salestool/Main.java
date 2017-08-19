@@ -22,7 +22,9 @@ public class Main {
 	private static void displayGreeting() {
 		// TODO Auto-generated method stub
 		
-		System.out.println("Hello Super-Ultimate Sales people of TCS");
+		System.out.println("Hello marvellous Sales people of TCS");
+		
+		System.out.println("Hello Saturday");
 
 		System.out.println("The app shows sales data");
 		
